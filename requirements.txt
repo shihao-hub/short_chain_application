@@ -1,0 +1,6 @@
+pymongo~=4.8.0
+redis~=5.0.8
+mongoengine~=0.29.0
+uvicorn~=0.30.6
+fastapi~=0.114.2
+SQLAlchemy~=2.0.35
